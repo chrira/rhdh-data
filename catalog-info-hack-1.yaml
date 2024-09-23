@@ -50,4 +50,5 @@ metadata:
 spec:
   type: technical-component
   owner: group:team-a
+  lifecycle: production
   system: fk-0
