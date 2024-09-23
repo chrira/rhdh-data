@@ -10,7 +10,6 @@ metadata:
     tier: "my-label"
   tags:
     - test
-
 spec:
   owner: group:team-a
   subdomainOf: domain-0
@@ -28,7 +27,6 @@ metadata:
     - test
   annotations:
     gitlab.com/project-slug: team-a/sample-app
-
 spec:
   owner: group:team-a
   domain: application-0
@@ -46,7 +44,6 @@ metadata:
     - test
   annotations:
     gitlab.com/project-slug: team-a/sample-app
-
 spec:
   type: technical-component
   owner: group:team-a
